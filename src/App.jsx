@@ -604,7 +604,7 @@ export default function App() {
       <div className="app">
         <div className="header">
           <div className="logo">
-            Sound<span>FX</span> Lab
+            SFX <span>WAVE</span> Generator
           </div>
           <div className="sub">Retro Sound Effect Generator</div>
         </div>
